@@ -1,5 +1,6 @@
--- Gui to Lua
--- Version: 3.2
+-- :(
+
+-- why you want skids hub v3 unobfuscated???
 
 -- Instances:
 
@@ -180,7 +181,7 @@ devs.BackgroundTransparency = 1.000
 devs.Position = UDim2.new(0, 0, 0.872162282, 0)
 devs.Size = UDim2.new(0, 400, 0, 29)
 devs.Font = Enum.Font.SourceSansLight
-devs.Text = "Developed by  DARK_MANE#7089. (Fixed by Emi_H#3854)"
+devs.Text = "Developed by  DARK_MANE#7089. (Re-Writed by Emi_H#3854)"
 devs.TextColor3 = Color3.fromRGB(255, 255, 255)
 devs.TextSize = 15.000
 
